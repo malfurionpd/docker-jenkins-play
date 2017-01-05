@@ -1,6 +1,6 @@
 FROM 		jenkins
 
-MAINTAINER 	adeng <343753091@qq.com>
+MAINTAINER 	malfurionpd <343753091@qq.com>
 
 ENV         ACTIVATOR_VERSION 1.3.10
 
